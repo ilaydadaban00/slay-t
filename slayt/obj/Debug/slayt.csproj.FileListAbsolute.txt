@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\slayt\slayt\bin\Debug\slayt.exe.config
+C:\Users\User\source\repos\slayt\slayt\bin\Debug\slayt.exe
+C:\Users\User\source\repos\slayt\slayt\bin\Debug\slayt.pdb
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.Form1.resources
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.Properties.Resources.resources
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.exe
+C:\Users\User\source\repos\slayt\slayt\obj\Debug\slayt.pdb
